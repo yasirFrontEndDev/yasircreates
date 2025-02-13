@@ -17,26 +17,25 @@ to connect, collaborate, and code together. Join the conversation and level up y
     },
    
     {
-      title: "itZmyLink- One Page many Links",
+      title: "ic360- Empowering Integrity.Redefining Compliance.",
       description:
-        "itZmyLink is a simple platform where user can create a personalized page to showcase all your social media profiles in one place. ",
-      tags: ["Nextjs", "Typescript", "Shadcn Ui"],
-      link: "https://github.com/taqui-786/itZmyLink",
+        "IC360's mission is to set new standards by providing unparalled services that ensure integrity, transparency, and compliance at the intersection of the rapidly evolving global sports betting market and sports integrity. ",
+      tags: ["Framer Motion","Nextjs", "Typescript", "Shadcn Ui"],
+      link: "https://ic360.io/",
     },
     {
-      title: "GitEstimate- Github estimate worth generator",
-      description:
-        "GitEstimate is a simple fun tool where user can generate their github estimate worth card just by entering their github username. ",
-      tags: ["Nextjs", "Typescript", "Shadcn Ui"],
-      link: "https://github.com/taqui-786/GitEstimate",
+      title: "Gunners- Latest Arsenal News",
+      description:"The ultimate Arsenal fan community. All the latest Arsenal news, transfer gossip, live scores and videos in one place. ",     
+      tags: ["Angular", "Typescript", "Laravel"],
+      link: "https://www.gunners.com/",
     },
-    {
-      title: "Mixcn-ui- Reusable components for Nextjs",
-      description:
-        "This is Nextjs app with a Collection of Nextjs Components - (Currently under Devlelopment) ",
-      tags: ["Nextjs", "Shadcnui", "Npx","Library"],
-      link: "https://mixcn-ui.vercel.app",
-    },
+    // {
+    //   title: "Mixcn-ui- Reusable components for Nextjs",
+    //   description:
+    //     "This is Nextjs app with a Collection of Nextjs Components - (Currently under Devlelopment) ",
+    //   tags: ["Nextjs", "Shadcnui", "Npx","Library"],
+    //   link: "https://mixcn-ui.vercel.app",
+    // },
     {
       title: "Rupeespot- All deals Product in one place",
       description:
@@ -44,13 +43,13 @@ to connect, collaborate, and code together. Join the conversation and level up y
       tags: ["Nextjs", "Freelancing", "MySQL"],
       link: "https://rupeespot.com/",
     },
-    {
-      title: "Formcraft- Build Type-Safe Forms with Zero Effort",
-      description:
-        "Create production-ready forms with Zod validation, React Hook Form, and TypeScript. Design, customize, and deploy in minutes.",
-      tags: ["Nextjs", "Shadcnui", "Zod", "React Hook Form "],
-      link: "https://formcraft-ti.vercel.app/",
-    },
+    // {
+    //   title: "Formcraft- Build Type-Safe Forms with Zero Effort",
+    //   description:
+    //     "Create production-ready forms with Zod validation, React Hook Form, and TypeScript. Design, customize, and deploy in minutes.",
+    //   tags: ["Nextjs", "Shadcnui", "Zod", "React Hook Form "],
+    //   link: "https://formcraft-ti.vercel.app/",
+    // },
     
     {
       title: "KryptoKapital- Investing in Cryptocurreny",
@@ -59,34 +58,34 @@ to connect, collaborate, and code together. Join the conversation and level up y
       tags: ["Nextjs", "Freelancing", "Supabase"],
       link: "https://pro.kryptokapital.info/",
     },
-    {
-      title: "FriendZ - A social media Platform",
-      description:
-        "FriendZ is a social media app made with modern tech stacks such as redis, Authjs etc. A user can Create, delete, like, comment Post. ",
-      tags: ["Redis", "Authjs", "Typescript", "Nextjs"],
-      link: "https://github.com/taqui-786/project-friendz",
-    },
-    {
-      title: "ChatApp- Simple instagram clone",
-      description:
-        "ChatApp is similar to instagram, you can create, edit, delete, like,comment, post and  Follow, unfollow users",
-      tags: ["Reactjs", "Javascript"],
-      link: "https://github.com/taqui-786/chatapp-api",
-    },
-    {
-      title: "Devletter - A Newsletter for devs",
-      description:
-        "Devletter ia a newsletter subscribing single page app made with Nextjs and Tailwindcss.",
-      tags: ["Nextjs", "Tailwindcss"],
-      link: "https://github.com/taqui-786/Devletter",
-    },
-    {
-      title: "CrouMaker - A Crousal Maker App",
-      description:
-        "Crousal Maker is a tool with in-built crousals templates edit and download it in any format.",
-      tags: ["Nextjs", "jsPDF", "html2canvas", "Shadcn Ui"],
-      link: "https://github.com/taqui-786/crousal-maker",
-    },
+    // {
+    //   title: "FriendZ - A social media Platform",
+    //   description:
+    //     "FriendZ is a social media app made with modern tech stacks such as redis, Authjs etc. A user can Create, delete, like, comment Post. ",
+    //   tags: ["Redis", "Authjs", "Typescript", "Nextjs"],
+    //   link: "https://github.com/taqui-786/project-friendz",
+    // },
+    // {
+    //   title: "ChatApp- Simple instagram clone",
+    //   description:
+    //     "ChatApp is similar to instagram, you can create, edit, delete, like,comment, post and  Follow, unfollow users",
+    //   tags: ["Reactjs", "Javascript"],
+    //   link: "https://github.com/taqui-786/chatapp-api",
+    // },
+    // {
+    //   title: "Devletter - A Newsletter for devs",
+    //   description:
+    //     "Devletter ia a newsletter subscribing single page app made with Nextjs and Tailwindcss.",
+    //   tags: ["Nextjs", "Tailwindcss"],
+    //   link: "https://github.com/taqui-786/Devletter",
+    // },
+    // {
+    //   title: "CrouMaker - A Crousal Maker App",
+    //   description:
+    //     "Crousal Maker is a tool with in-built crousals templates edit and download it in any format.",
+    //   tags: ["Nextjs", "jsPDF", "html2canvas", "Shadcn Ui"],
+    //   link: "https://github.com/taqui-786/crousal-maker",
+    // },
   ];
 
   return (

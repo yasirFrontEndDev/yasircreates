@@ -31,15 +31,13 @@ const educationPage = () => {
             className="relative w-3/4 border-l-4 border-l-[#3c3c3c] p-4 gap-3 education_point "
           >
             <div className="text-2xl font-rubik max-sm:text-xl">
-              Bachelor of Computer Application, <br /> Ranchi University
-              Jharkhand
+              Bachelor of Software Engineering, <br /> Foundation University,
+              Islamabad
             </div>
             <p className=" font-poppins text-base w-full text-primary  max-sm:text-xs">
-              I am currently Studying Bachelor of Computer Application form
-              Doranda College Ranchi a Goverment College of Ranchi. The program
-              has provided me with a well-rounded education, covering both
-              theoretical foundations and practical applications of computer
-              science.
+              Earned an A+ grade in the final year project.
+              Graduated with academic excellence in Bachelor of Software
+Engineering.
             </p>
           </FramerWrapper>
         </div>

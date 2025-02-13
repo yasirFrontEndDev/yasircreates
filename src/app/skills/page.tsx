@@ -109,10 +109,11 @@ const skillPage = () => {
         <Heading>My Technical Experience/Skills.</Heading>
         <FramerWrapper y={0} x={200}>
           <p className="font-poppins text-xl w-full text-primary max-sm:text-lg">
-            Currently i am a fresher and i have a solid understand of HTML5,
-            CSS3, JS, TS and React, including responsive design principles. I
-            specialize in building web applications and sites using Javascript,
-            Typescript, React, Nextjs & Node.
+          With 8+ years in full-stack development, I specialize in Python, JavaScript, PHP, 
+          and Node.js, building scalable backends and high-performance web applications. 
+          On the frontend, I have 4+ years of experience crafting responsive interfaces with ReactJS, Vue.js, HTML5, CSS3, and 
+          Bootstrap. My expertise spans API development, system integrations, and performance optimization, 
+          ensuring seamless frontend-backend integration for exceptional digital experiences.
           </p>
         </FramerWrapper>
         <FramerWrapper y={100} delay={0.3} className="block w-full">

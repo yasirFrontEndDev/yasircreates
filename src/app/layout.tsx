@@ -16,7 +16,7 @@ const rubik = Rubik({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://mdTaquiImam.vercel.app"),
+  metadataBase: new URL("https://yasircreates.vercel.app"),
   title: {
     default: siteConfig.name,
     template: `%s - Software Engineer`,
@@ -34,8 +34,8 @@ export const metadata: Metadata = {
     "Taqui",
     "Imam",
     "Imam",
-    "Md Taqui Imam",
-    "md taqui imam",
+    "Yasir Ali",
+    "Yasir Ali",
     "mdtaqui",
     "mdtaquiimam",
     "taqui imam",
@@ -48,7 +48,7 @@ export const metadata: Metadata = {
     "developer",
     "PROGRAMMER ",
     "programmer ",
-    "MD TAQUI IMAM ",
+    "Yasir-Ali-Khan ",
     "website",
     "@Taquiimam",
     "Taquiimam",
@@ -56,11 +56,11 @@ export const metadata: Metadata = {
   ],
   authors: [
     {
-      name: "Taqui Imam",
-      url: "https://github.com/taqui-786",
+      name: "Yasir Ali",
+      url: "https://github.com/yasirFrontEndDev",
     },
   ],
-  creator: "Taqui imam",
+  creator: "Yasir Ali",
 
   openGraph: {
     type: "website",

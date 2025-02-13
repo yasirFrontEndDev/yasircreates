@@ -7,7 +7,7 @@ const page = () => {
   const items = [
     { hobby: "Coding" },
     { hobby: "Playing Games" },
-    { hobby: "Watching Anime" },
+    { hobby: "Watching Movies/Web Series" },
     { hobby: "Tech Blog Writing" },
     { hobby: "Creating Cool Projects" },
   ];
@@ -21,18 +21,28 @@ const page = () => {
       </Badge>
       <div className="flex flex-col gap-5">
         <Heading>
-          Software Engineer And Web <br /> Developer, Based In India.
+          Software Engineer And Web <br /> Developer, Based In Pakistan.
         </Heading>
 
         <FramerWrapper y={0} x={100}>
           <p className=" font-poppins text-xl w-full text-primary max-sm:text-lg ">
-            I am a Full Stack Web Developer from Ramgarh cantt, Jharkhand,
-            India. I&apos;m passionate about crafting web projects and
-            contributing to open-source communities. I specialize in modern
-            JavaScript frameworks and responsive CSS design, focusing on
-            creating pixel-perfect, user-friendly interfaces. With strong
-            attention to detail and efficient delivery, I build seamless web
-            experiences that combine functionality with elegant design.
+          With over 8 years of experience in full-stack development, I
+have worked extensively across backend and frontend
+technologies, specializing in Python, JavaScript, PHP, and
+Node.js. My expertise spans API development, system
+integrations, and scalable backend solutions, along with
+crafting intuitive and high-performance web applications.
+On the frontend, I bring 4+ years of experience in building and
+maintaining responsive, user-friendly interfaces using HTML5,
+CSS3, JavaScript, Vue.js, ReactJS, Bootstrap 4-5, and jQuery. I
+have a strong focus on performance optimization, user
+experience, and clean, maintainable code.
+My ability to work across the entire stack allows me to develop
+robust, scalable, and efficient web solutions tailored to diverse
+business needs. I thrive in collaborative environments, ensuring
+seamless integration between frontend and backend systems
+to deliver exceptional digital experiences.
+
           </p>
         </FramerWrapper>
       </div>
