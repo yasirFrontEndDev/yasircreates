@@ -22,7 +22,7 @@ const educationPage = () => {
             delay={0.35}
             className="w-1/4 font-rubik flex items-center justify-evenly text-lg max-sm:text-base "
           >
-            July 2023 - 2026
+            July 2014 - 2019
           </FramerWrapper>
           <FramerWrapper
             y={0}
