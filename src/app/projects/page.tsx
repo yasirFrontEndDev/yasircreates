@@ -66,7 +66,7 @@ to connect, collaborate, and code together. Join the conversation and level up y
       link: "https://blissiree.com/",
     },
     {
-      title: "Berain- Simple instagram clone",
+      title: "Berain- Berain Water",
       description:
         "We make it easier for you to choose the perfect drinking water for you and your family, with world-class quality and a range of sizes to suit all occasions.",
       tags: ["Wordpress", "laravel", "woocommerce"],
