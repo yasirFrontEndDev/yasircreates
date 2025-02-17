@@ -43,13 +43,13 @@ to connect, collaborate, and code together. Join the conversation and level up y
       tags: ["Nextjs", "Freelancing", "MySQL"],
       link: "https://rupeespot.com/",
     },
-    // {
-    //   title: "Formcraft- Build Type-Safe Forms with Zero Effort",
-    //   description:
-    //     "Create production-ready forms with Zod validation, React Hook Form, and TypeScript. Design, customize, and deploy in minutes.",
-    //   tags: ["Nextjs", "Shadcnui", "Zod", "React Hook Form "],
-    //   link: "https://formcraft-ti.vercel.app/",
-    // },
+    {
+      title: "SwiftReels- Faceless Videos on Auto-Pilot",
+      description:
+        "Our advanced AI video creation platform empowers you to fully automate your faceless channel with ease and efficiency.",
+      tags: ["Python" , "Reactjs", "Shadcnui", "Laravel", "Bootstrap"],
+      link: "https://swiftreels.com/",
+    },
     
     {
       title: "KryptoKapital- Investing in Cryptocurreny",
@@ -58,27 +58,27 @@ to connect, collaborate, and code together. Join the conversation and level up y
       tags: ["Nextjs", "Freelancing", "Supabase"],
       link: "https://pro.kryptokapital.info/",
     },
-    // {
-    //   title: "FriendZ - A social media Platform",
-    //   description:
-    //     "FriendZ is a social media app made with modern tech stacks such as redis, Authjs etc. A user can Create, delete, like, comment Post. ",
-    //   tags: ["Redis", "Authjs", "Typescript", "Nextjs"],
-    //   link: "https://github.com/taqui-786/project-friendz",
-    // },
-    // {
-    //   title: "ChatApp- Simple instagram clone",
-    //   description:
-    //     "ChatApp is similar to instagram, you can create, edit, delete, like,comment, post and  Follow, unfollow users",
-    //   tags: ["Reactjs", "Javascript"],
-    //   link: "https://github.com/taqui-786/chatapp-api",
-    // },
-    // {
-    //   title: "Devletter - A Newsletter for devs",
-    //   description:
-    //     "Devletter ia a newsletter subscribing single page app made with Nextjs and Tailwindcss.",
-    //   tags: ["Nextjs", "Tailwindcss"],
-    //   link: "https://github.com/taqui-786/Devletter",
-    // },
+    {
+      title: "Blissiree - Wellness and Mental Health App",
+      description:
+        "Blissiree is an app that helps people suffering from anxiety, depression, limiting beliefs and more. It’s evidence-based and can be used from the comfort of your own home. ",
+      tags: ["Angular", "OAuth", "Typescript", "Laravel"],
+      link: "https://blissiree.com/",
+    },
+    {
+      title: "Berain- Simple instagram clone",
+      description:
+        "We make it easier for you to choose the perfect drinking water for you and your family, with world-class quality and a range of sizes to suit all occasions.",
+      tags: ["Wordpress", "laravel", "woocommerce"],
+      link: "https://berain.com.sa",
+    },
+    {
+      title: "99Gens - By robots, for humans.",
+      description:
+        "99GENS is a platform that allows users to generate or submit art and quickly publish 30 (and growing) Print-on-demand merchandise products such as All-over Print backpacks, hoodies, sweatshirts, jackets, dresses and more. In less than 60 seconds you can preview and purchase your artwork on multiple print-on-demand products.",
+      tags: ["Reactjs", "Python", "nodejs" , "AI", "Replicate" , "Printful"],
+      link: "https://preview.99gens.com/",
+    },
     // {
     //   title: "CrouMaker - A Crousal Maker App",
     //   description:
